@@ -1,0 +1,13 @@
+.hero-section {
+  background: url("../assets/images/banner-bg.jpg") no-repeat center
+    center/cover;
+  height: 34vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.hero-content {
+  text-align: center;
+}
